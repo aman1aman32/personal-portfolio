@@ -1,35 +1,36 @@
-🌐 Personal Portfolio Website
-📌 About the Project
+# 🌐 Personal Portfolio Website  
 
-This is my personal portfolio website built using HTML and CSS.
-It showcases my skills, projects, and basic frontend development knowledge.
+---
 
-🚀 Features
+## 📌 About the Project  
+This is my personal portfolio website built using **HTML and CSS**.  
+It showcases my **skills, projects, and frontend development knowledge**.
 
-Responsive design
+---
 
-Clean and modern UI
+## 🚀 Features  
+- ✅ Responsive design  
+- ✅ Clean and modern UI  
+- ✅ Scroll animations using AOS  
+- ✅ Skills showcase section  
+- ✅ Structured navigation bar  
 
-Scroll animations using AOS
+---
 
-Skills showcase section
+## 🛠️ Technologies Used  
+- 🔹 HTML5  
+- 🔹 CSS3  
+- 🔹 AOS (Animate On Scroll)  
+- 🔹 Font Awesome  
 
-Navigation bar with smooth structure
+---
 
-🛠️ Technologies Used
+## 📷 Preview  
+> *(Add a screenshot of your website here later)*  
 
-HTML5
+---
 
-CSS3
+## 🎯 Purpose  
+This project was created to practice **frontend development** and to build my online presence as a **Computer Science student**.
 
-AOS (Animate On Scroll)
-
-Font Awesome
-
-📷 Preview
-
-(Add a screenshot of your website here later)
-
-🎯 Purpose
-
-This project was created to practice frontend development and to build my online presence as a Computer Science student.
+---

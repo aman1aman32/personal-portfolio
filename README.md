@@ -25,8 +25,10 @@ It showcases my **skills, projects, and frontend development knowledge**.
 
 ---
 
-## 📷 Preview  
-> **  
+## 📷 Preview
+
+![Portfolio Screenshot](screenshot.png)
+ 
 
 ---
 

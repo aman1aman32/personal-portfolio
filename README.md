@@ -26,7 +26,7 @@ It showcases my **skills, projects, and frontend development knowledge**.
 ---
 
 ## 📷 Preview  
-> *(Add a screenshot of your website here later)*  
+> **  
 
 ---
 

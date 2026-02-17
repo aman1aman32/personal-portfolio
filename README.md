@@ -28,9 +28,10 @@ It showcases my **skills, projects, and frontend development knowledge**.
 ## 📷 Preview
 
 <p align="center">
-  <img src="images/screenshot1.png" width="400"/>
-  <img src="images/screenshot2.png" width="400"/>
+  <img src="images/Screenshot1.png" width="400"/>
+  <img src="images/Screenshot2.png" width="400"/>
 </p>
+
 
 
 ---

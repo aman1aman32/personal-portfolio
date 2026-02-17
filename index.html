@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- AOS Animation -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Aman Portfolio</title>
+</head>
+
+<body>
+
+<nav>
+    <div class="nav-container">
+        <div class="logo">My Portfolio</div>
+
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#skills">Skills</a>
+            <a href="#">Projects</a>
+        </div>
+
+        <button>Contact</button>
+    </div>
+</nav>
+
+<!-- HERO SECTION -->
+<section class="hero">
+    <div class="content">
+
+        <div class="main-content">
+            <h1 data-aos="fade-right">Hi! I Am</h1>
+            <span data-aos="fade-left">Aman Lakra</span>
+            <h2 data-aos="fade-right">Computer Science Student</h2>
+
+            <p data-aos="fade-up">
+                I'm a Computer Science student who enjoys learning new technologies
+                and building practical projects. This portfolio showcases my work
+                and progress as I grow as a developer.
+            </p>
+
+            <div class="buttons">
+                <button class="dark">Hire Me</button>
+                <button>See My Work</button>
+            </div>
+        </div>
+
+        <div class="image" data-aos="zoom-in">
+            <img src="main.png" alt="profile">
+        </div>
+
+    </div>
+</section>
+
+<!-- SKILLS SECTION -->
+<section class="skills-section" id="skills">
+    <h1 data-aos="fade-up">My Skills</h1>
+
+    <div class="skills-box">
+
+        <div class="skill-card" data-aos="zoom-in">
+            <i class="fa-brands fa-java"></i>
+            <h2>Java</h2>
+            <p>Basic OOP, loops, arrays and problem solving.</p>
+        </div>
+
+        <div class="skill-card" data-aos="zoom-in" data-aos-delay="100">
+            <i class="fa-brands fa-html5"></i>
+            <h2>HTML</h2>
+            <p>Building structured and clean web pages.</p>
+        </div>
+
+        <div class="skill-card" data-aos="zoom-in" data-aos-delay="200">
+            <i class="fa-brands fa-css3-alt"></i>
+            <h2>CSS</h2>
+            <p>Styling layouts and responsive design.</p>
+        </div>
+
+        <div class="skill-card" data-aos="zoom-in" data-aos-delay="300">
+            <i class="fa-solid fa-code"></i>
+            <h2>OOP</h2>
+            <p>Encapsulation, Inheritance & Polymorphism.</p>
+        </div>
+
+    </div>
+</section>
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+AOS.init();
+</script>
+
+</body>
+</html>

@@ -27,8 +27,11 @@ It showcases my **skills, projects, and frontend development knowledge**.
 
 ## 📷 Preview
 
-![Portfolio Screenshot](screenshot.png)
- 
+<p align="center">
+  <img src="images/screenshot1.png" width="400"/>
+  <img src="images/screenshot2.png" width="400"/>
+</p>
+
 
 ---
 
